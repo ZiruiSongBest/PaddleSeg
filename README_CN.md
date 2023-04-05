@@ -7,7 +7,7 @@
 </p>
 
 **飞桨高性能图像分割开发套件，端到端完成从训练到部署的全流程图像分割应用。**
->test
+>test1
 
 [![License](https://img.shields.io/badge/license-Apache%202-blue.svg)](LICENSE)
 [![Version](https://img.shields.io/github/release/PaddlePaddle/PaddleSeg.svg)](https://github.com/PaddlePaddle/PaddleSeg/releases)
