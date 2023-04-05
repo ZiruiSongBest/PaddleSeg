@@ -2,6 +2,13 @@
 
 <div align="center">
 
+
+
+
+
+
+
+
 <p align="center">
   <img src="./docs/images/paddleseg_logo.png" align="middle" width = "500" />
 </p>
